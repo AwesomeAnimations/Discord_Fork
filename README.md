@@ -39,7 +39,7 @@ To set up authentication:
 
 ![Image showing the "Build Environment Variables" box](/.github/env.png)
 
-Set `https://discordbots.co.uk/edit` as your callback URL in GitHub.
+Set `https://discordbots.co.uk/edit` as your callback URL in Discord developer portal.
 
 ## Thanks
 [View all dependencies which made Discord_Fork possible](https://github.com/Terminal/Discord_Fork/network/dependencies)
